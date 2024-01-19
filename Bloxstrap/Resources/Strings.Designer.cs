@@ -325,6 +325,15 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Copy flags to clipboard.
+        /// </summary>
+        public static string Common_CopyFlags {
+            get {
+                return ResourceManager.GetString("Common.CopyFlags", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Delete.
         /// </summary>
         public static string Common_Delete {
@@ -339,15 +348,6 @@ namespace Bloxstrap.Resources {
         public static string Common_DiscordRichPresence {
             get {
                 return ResourceManager.GetString("Common.DiscordRichPresence", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Export Flags as json.
-        /// </summary>
-        public static string Common_ExportJson {
-            get {
-                return ResourceManager.GetString("Common.ExportJson", resourceCulture);
             }
         }
         

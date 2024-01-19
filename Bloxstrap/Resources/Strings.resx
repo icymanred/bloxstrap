@@ -209,14 +209,14 @@ Your ReShade configuration files will still be saved, and you can locate them by
   <data name="Common.Close" xml:space="preserve">
     <value>Close</value>
   </data>
+  <data name="Common.CopyFlags" xml:space="preserve">
+    <value>Copy flags to clipboard</value>
+  </data>
   <data name="Common.Delete" xml:space="preserve">
     <value>Delete</value>
   </data>
   <data name="Common.DiscordRichPresence" xml:space="preserve">
     <value>Discord Rich Presence</value>
-  </data>
-  <data name="Common.ExportJson" xml:space="preserve">
-    <value>Export Flags as json</value>
   </data>
   <data name="Common.Help" xml:space="preserve">
     <value>Help</value>
