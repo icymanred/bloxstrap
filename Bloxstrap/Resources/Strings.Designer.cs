@@ -325,7 +325,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Copy flags to clipboard.
+        ///   Looks up a localized string similar to Copy Flags to clipboard.
         /// </summary>
         public static string Common_CopyFlags {
             get {

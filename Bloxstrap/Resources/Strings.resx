@@ -210,7 +210,7 @@ Your ReShade configuration files will still be saved, and you can locate them by
     <value>Close</value>
   </data>
   <data name="Common.CopyFlags" xml:space="preserve">
-    <value>Copy flags to clipboard</value>
+    <value>Copy Flags to clipboard</value>
   </data>
   <data name="Common.Delete" xml:space="preserve">
     <value>Delete</value>
@@ -218,12 +218,6 @@ Your ReShade configuration files will still be saved, and you can locate them by
   <data name="Common.DiscordRichPresence" xml:space="preserve">
     <value>Discord Rich Presence</value>
   </data>
-<<<<<<< HEAD
-=======
-  <data name="Common.ExportJson" xml:space="preserve">
-    <value>Copy FastFlags to clipboard</value>
-  </data>
->>>>>>> ab1720095c82dc75c63c57d2a88fb3e76c2703fa
   <data name="Common.Help" xml:space="preserve">
     <value>Help</value>
   </data>
